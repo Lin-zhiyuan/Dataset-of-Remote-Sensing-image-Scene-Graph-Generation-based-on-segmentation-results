@@ -1,0 +1,26 @@
+{
+    "image_id":"wh0103.png",
+    "objects":[
+        {
+            "object_id":"0_3",
+            "mask":"0_3.png",
+            "name":"road"
+        },
+        {
+            "object_id":"1_3",
+            "mask":"1_3.png",
+            "name":"road"
+        },
+        {
+            "object_id":"2_3",
+            "mask":"2_3.png",
+            "name":"road"
+        },
+        {
+            "object_id":"3_3",
+            "mask":"3_3.png",
+            "name":"road"
+        }
+    ],
+    "relationships":[]
+}

@@ -1,0 +1,11 @@
+{
+    "image_id": "wh0102.png",
+    "objects": [
+        {
+            "object_id": "0_1",
+            "mask": "0_1.png",
+            "name": "building"
+        }
+    ],
+    "relationships": []
+}
