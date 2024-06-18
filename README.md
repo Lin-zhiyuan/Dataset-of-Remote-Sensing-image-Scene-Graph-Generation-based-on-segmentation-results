@@ -3,6 +3,7 @@ The dataset of remote sensing image scene graph generation based on segmentation
 The dataset [S2SG](https://drive.google.com/drive/folders/1U5x30MpUerMuEPkcPnO7KtWP-GU_AMp1?usp=drive_link) is annotated based on the WHDLD dataset. 
 The file contains the source code for the annotation tool used to label semantic relationships, which can be modified according to actual needs. 
 
+If our work has been helpful to you, please refer to the article:
 @article{lin2022srsg,
   title={SRSG and S2SG: a model and a dataset for scene graph generation of remote sensing images from segmentation results},
   author={Lin, Zhiyuan and Zhu, Feng and Kong, Yanzi and Wang, Qun and Wang, Jianyu},
